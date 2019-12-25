@@ -16,7 +16,7 @@ class LoginTest(StartEnd):
         l.login_action(data[0],data[1])
         self.assertTrue(l.check_loginStatus())
 
-    @unittest.skip('test_login_zxw2017')
+    # @unittest.skip('test_login_zxw2017')
     def test_login_zxw2017(self):
         logging.info('=======test login zxw2017======')
         l = LoginView(self.driver)
@@ -25,7 +25,7 @@ class LoginTest(StartEnd):
         l.login_action(data[0], data[1])
         self.assertTrue(l.check_loginStatus())
 
-    @unittest.skip('test_login_error')
+    # @unittest.skip('test_login_error')
     def test_login_error(self):
         logging.info('=======test login error======')
         l = LoginView(self.driver)
@@ -37,4 +37,4 @@ class LoginTest(StartEnd):
 
 
 # if __name__=='__main__':
-#     unittest.main()
+    # unittest.main()

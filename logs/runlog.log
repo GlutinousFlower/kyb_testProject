@@ -814,3 +814,89 @@
 2019-12-01 22:13:59,479 loginView.py[line:66] INFO login success~
 2019-12-01 22:13:59,479 loginView.py[line:73] INFO =========logout action=========
 2019-12-04 14:43:04,267 desired_caps.py[line:46] INFO start app....
+2019-12-23 10:46:26,215 desired_caps.py[line:46] INFO start app....
+2019-12-23 10:46:36,056 test_login.py[line:30] INFO =======test login error======
+2019-12-23 10:46:36,056 common_fun.py[line:83] INFO ========get csv data========
+2019-12-23 10:46:36,057 common_fun.py[line:19] INFO =======check cancleBtn=======
+2019-12-23 10:46:36,122 common_fun.py[line:25] INFO click cancelBtn~
+2019-12-23 10:46:36,169 common_fun.py[line:29] INFO =======check skipBtn=======
+2019-12-23 10:46:36,920 common_fun.py[line:35] INFO click skipBtn~
+2019-12-23 10:46:36,953 loginView.py[line:29] INFO =======login========
+2019-12-23 10:46:36,953 loginView.py[line:30] INFO input username:666
+2019-12-23 10:46:38,863 loginView.py[line:34] INFO input password:222
+2019-12-23 10:46:39,472 loginView.py[line:37] INFO click loginBtn.
+2019-12-23 10:46:40,039 loginView.py[line:39] INFO login finished.
+2019-12-23 10:46:40,040 loginView.py[line:55] INFO ========check_loginStatus=======
+2019-12-23 10:46:40,040 common_fun.py[line:72] INFO ========check_market_ad=======
+2019-12-23 10:46:48,278 loginView.py[line:44] INFO ========check_account_alert=========
+2019-12-23 10:47:04,933 loginView.py[line:62] ERROR login fail~
+2019-12-23 10:47:04,934 common_fun.py[line:67] INFO get loginFail screenshot
+2019-12-23 10:47:05,475 test_login.py[line:21] INFO =======test login zxw2017======
+2019-12-23 10:47:05,475 common_fun.py[line:83] INFO ========get csv data========
+2019-12-23 10:47:05,476 common_fun.py[line:19] INFO =======check cancleBtn=======
+2019-12-23 10:47:13,590 common_fun.py[line:23] INFO ========no cancleBtn=======
+2019-12-23 10:47:13,591 common_fun.py[line:29] INFO =======check skipBtn=======
+2019-12-23 10:47:21,688 common_fun.py[line:33] INFO ========no skipBtn=======
+2019-12-23 10:47:21,688 loginView.py[line:29] INFO =======login========
+2019-12-23 10:47:21,689 loginView.py[line:30] INFO input username:自学网2017
+2019-12-23 10:47:22,864 loginView.py[line:34] INFO input password:zxw2017
+2019-12-23 10:47:23,939 loginView.py[line:37] INFO click loginBtn.
+2019-12-23 10:47:24,495 loginView.py[line:39] INFO login finished.
+2019-12-23 10:47:24,496 loginView.py[line:55] INFO ========check_loginStatus=======
+2019-12-23 10:47:24,496 common_fun.py[line:72] INFO ========check_market_ad=======
+2019-12-23 10:47:32,744 loginView.py[line:44] INFO ========check_account_alert=========
+2019-12-23 10:47:41,572 loginView.py[line:66] INFO login success~
+2019-12-23 10:47:41,573 loginView.py[line:73] INFO =========logout action=========
+2019-12-23 10:47:44,398 test_login.py[line:12] INFO =======test login zxw2018======
+2019-12-23 10:47:44,399 common_fun.py[line:83] INFO ========get csv data========
+2019-12-23 10:47:44,399 common_fun.py[line:19] INFO =======check cancleBtn=======
+2019-12-23 10:47:52,518 common_fun.py[line:23] INFO ========no cancleBtn=======
+2019-12-23 10:47:52,519 common_fun.py[line:29] INFO =======check skipBtn=======
+2019-12-23 10:48:01,365 desired_caps.py[line:46] INFO start app....
+2019-12-23 10:48:10,606 test_login.py[line:30] INFO =======test login error======
+2019-12-23 10:48:10,606 common_fun.py[line:83] INFO ========get csv data========
+2019-12-23 10:48:10,606 common_fun.py[line:19] INFO =======check cancleBtn=======
+2019-12-23 10:48:10,670 common_fun.py[line:25] INFO click cancelBtn~
+2019-12-23 10:48:10,717 common_fun.py[line:29] INFO =======check skipBtn=======
+2019-12-23 10:48:11,456 common_fun.py[line:35] INFO click skipBtn~
+2019-12-23 10:48:11,495 loginView.py[line:29] INFO =======login========
+2019-12-23 10:48:11,496 loginView.py[line:30] INFO input username:666
+2019-12-23 10:48:13,366 loginView.py[line:34] INFO input password:222
+2019-12-23 10:48:13,937 loginView.py[line:37] INFO click loginBtn.
+2019-12-23 10:48:14,508 loginView.py[line:39] INFO login finished.
+2019-12-23 10:48:14,508 loginView.py[line:55] INFO ========check_loginStatus=======
+2019-12-23 10:48:14,508 common_fun.py[line:72] INFO ========check_market_ad=======
+2019-12-23 10:48:22,838 loginView.py[line:44] INFO ========check_account_alert=========
+2019-12-23 10:48:39,771 loginView.py[line:62] ERROR login fail~
+2019-12-23 10:48:39,771 common_fun.py[line:67] INFO get loginFail screenshot
+2019-12-23 10:48:55,523 desired_caps.py[line:46] INFO start app....
+2019-12-23 10:49:05,200 test_login.py[line:30] INFO =======test login error======
+2019-12-23 10:49:05,200 common_fun.py[line:83] INFO ========get csv data========
+2019-12-23 10:49:05,200 common_fun.py[line:19] INFO =======check cancleBtn=======
+2019-12-23 10:49:05,287 common_fun.py[line:25] INFO click cancelBtn~
+2019-12-23 10:49:05,331 common_fun.py[line:29] INFO =======check skipBtn=======
+2019-12-23 10:49:06,089 common_fun.py[line:35] INFO click skipBtn~
+2019-12-23 10:49:06,132 loginView.py[line:29] INFO =======login========
+2019-12-23 10:49:06,132 loginView.py[line:30] INFO input username:666
+2019-12-23 10:49:08,044 loginView.py[line:34] INFO input password:222
+2019-12-23 10:49:08,652 loginView.py[line:37] INFO click loginBtn.
+2019-12-23 10:49:09,250 loginView.py[line:39] INFO login finished.
+2019-12-23 10:49:09,250 loginView.py[line:55] INFO ========check_loginStatus=======
+2019-12-23 10:49:09,251 common_fun.py[line:72] INFO ========check_market_ad=======
+2019-12-23 10:49:17,521 loginView.py[line:44] INFO ========check_account_alert=========
+2019-12-23 10:49:33,831 loginView.py[line:62] ERROR login fail~
+2019-12-23 10:49:33,831 common_fun.py[line:67] INFO get loginFail screenshot
+2019-12-23 10:49:34,364 test_login.py[line:21] INFO =======test login zxw2017======
+2019-12-23 10:49:34,364 common_fun.py[line:83] INFO ========get csv data========
+2019-12-23 10:49:34,365 common_fun.py[line:19] INFO =======check cancleBtn=======
+2019-12-23 10:49:42,692 common_fun.py[line:23] INFO ========no cancleBtn=======
+2019-12-23 10:49:42,693 common_fun.py[line:29] INFO =======check skipBtn=======
+2019-12-23 10:49:50,921 common_fun.py[line:33] INFO ========no skipBtn=======
+2019-12-23 10:49:50,921 loginView.py[line:29] INFO =======login========
+2019-12-23 10:49:50,921 loginView.py[line:30] INFO input username:自学网2017
+2019-12-23 10:49:52,213 loginView.py[line:34] INFO input password:zxw2017
+2019-12-23 10:49:52,836 loginView.py[line:37] INFO click loginBtn.
+2019-12-23 10:49:53,413 loginView.py[line:39] INFO login finished.
+2019-12-23 10:49:53,413 loginView.py[line:55] INFO ========check_loginStatus=======
+2019-12-23 10:49:53,413 common_fun.py[line:72] INFO ========check_market_ad=======
+2019-12-23 10:50:01,989 loginView.py[line:44] INFO ========check_account_alert=========
